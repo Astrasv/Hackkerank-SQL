@@ -1,2 +1,2 @@
 # Hackkerank-SQL
-My Solutions for HackerRank SQL problems 
+My Solutions for HackerRank SQL problems.
